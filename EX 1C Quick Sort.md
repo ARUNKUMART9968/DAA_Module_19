@@ -18,7 +18,7 @@ Developed by:ArunKumar.T
 Register Number:  21222040017
 */
 
-
+```python
 def partition(arr, low, high):
     pivot = arr[high]
     i = low - 1
@@ -41,6 +41,8 @@ print("Sorted array is:")
 quickSort(arr,0,n-1)
 for num in arr:
     print(num)
+
+```
 
 ## Output:
 ![Screenshot 2025-04-26 103831](https://github.com/user-attachments/assets/6bd620d0-837a-45fb-bc50-49a057456f9b)
