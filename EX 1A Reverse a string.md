@@ -17,7 +17,7 @@ To write a program to create a recursive function to reverse a string.
 6. Print the result.
 
 ## Program:
-```
+```python
 /*
 Program to implement Reverse a String
 Developed by: ArunKumar.T
