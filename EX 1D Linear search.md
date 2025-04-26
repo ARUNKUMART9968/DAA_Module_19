@@ -17,7 +17,7 @@ Developed by: ArunKumar.T
 Register Number:  21222040017
 */
 
-
+```python
 def search(List,n):
     
     found = False
@@ -33,6 +33,7 @@ def search(List,n):
 l = int(input())
 List = [str(input()) for _ in range(l)]
 n = str(input())
+```
 
 ## Output:
 ![WhatsApp Image 2025-04-26 at 10 46 51_cc1fd310](https://github.com/user-attachments/assets/9bb837f5-55b7-46e0-8af4-c34568ce8bf7)
