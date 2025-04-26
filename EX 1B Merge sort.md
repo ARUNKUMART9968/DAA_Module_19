@@ -14,10 +14,10 @@ To write a python program to sort the first half of the list using merge sort.
 /*
 Program to implement Merge Sort
 Developed by: ArunKumar.T
-Register Number:  212223220068
+Register Number:  212222040017
 */
 
-
+```python
 def mergesort(li):
     if len(li) > 1:
         mid = len(li) // 2
@@ -71,7 +71,7 @@ mid = len(li)//2
 mergesort(li) 
 for i in range(0,mid):
     print(m[i], end=" ")
-
+```
 
 
 ## Output:
